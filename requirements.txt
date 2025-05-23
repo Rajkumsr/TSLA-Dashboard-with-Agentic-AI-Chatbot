@@ -1,0 +1,5 @@
+streamlit_lightweight_charts
+pandas
+numpy
+streamlit
+google-generativeai 
